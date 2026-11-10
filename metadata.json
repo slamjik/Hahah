@@ -1,0 +1,6 @@
+{
+  "name": "D3 Interactive Bar Chart Laboratory",
+  "description": "Interactive Observable-style D3 Bar Chart visualization with live sorting, data switching, frequency analysis, custom datasets, and SVG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
